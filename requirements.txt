@@ -1,0 +1,2 @@
+# Standard library components used; no external pip installations required.
+# Compatible with Python 3.8 and above.
